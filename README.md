@@ -1,10 +1,10 @@
 # Agency Code Refactor
-![alt text](/assets/screenshotafter.png)
+![alt text](/Assets/images/screenshotafter.png)
 
 ## Description
 This Agency Code Refactor project was created for the Marketing Agency Horiseon. The code for their webpage was refactored in order to improve web accessibilty. Web accessibility is important for search engine optimisation and ensuring that the website meets accessibility standards and is inclusive for people with disabilities. Semantic HTML elements have been added to the source code, and alt attributes have been added to image and icon elements. The CCS styling has been updated to improve readability. Prior to refactoring the code, the website looked like the image below. After refactoring the website now looks like the image at the top of this README file. 
 
-![alt text](/assets/screenshotbefore.png)
+![alt text](/Assets/images/screenshotbefore.png)
 
 ## Installation
 N/A
